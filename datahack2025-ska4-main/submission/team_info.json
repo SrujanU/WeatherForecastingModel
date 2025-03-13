@@ -1,0 +1,30 @@
+{
+    "team_number": 19,
+    "team_name": "Covid-19",
+    "team_members": [
+        {
+            "name": "Dharma Uppuluri",
+            "discord_username": "predawnhades220",
+            "eid": "dsu96",
+            "email": "dsu96@utexas.edu"
+        },
+        {
+            "name": "Sathvik Katta",
+            "discord_username": "sathvikkatta_87050",
+            "eid": "sk49699",
+            "email": "sathvikkatta@utexas.edu"
+        },
+        {
+            "name": "Saatvik Anantha",
+            "discord_username": "",
+            "eid": "ska2242",
+            "email": "ska4@utexas.edu"
+        },
+        {
+            "name": "Advik Katiyar",
+            "discord_username": "advik1742",
+            "eid": "ak54932",
+            "email": "advik.katiyar@utexas.edu"
+        }
+    ]
+}
